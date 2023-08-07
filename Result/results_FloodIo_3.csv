@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691389593877,4000,S01_FL_Launch,200,"Number of samples in transaction : 2, number of failing samples : 0",S01_FloodIO 1-1,,true,,6763,1839,1,1,null,0,127,1222
+1691389593973,2902,S01_FL_Launch-3,200,OK,S01_FloodIO 1-1,text,true,,3564,710,1,1,https://training.flooded.io:443/,716,0,431
+1691389596891,1098,S01_FL_Launch-4,200,OK,S01_FloodIO 1-1,text,true,,3199,1129,1,1,https://training.flooded.io/,1097,0,791
+1691389605475,703,S01_FL_Start,200,"Number of samples in transaction : 1, number of failing samples : 0",S01_FloodIO 1-1,,true,,3549,2777,1,1,null,0,734,0
+1691389605477,703,S01_FL_Start-0,200,OK,S01_FloodIO 1-1,text,true,,3549,2777,1,1,https://training.flooded.io/step/2,395,0,0
+1691389613449,616,S01_FL_Step_2,200,"Number of samples in transaction : 1, number of failing samples : 0",S01_FloodIO 1-1,,true,,4166,2811,1,1,null,0,502,0
+1691389613451,616,S01_FL_Step_2-0,200,OK,S01_FloodIO 1-1,text,true,,4166,2811,1,1,https://training.flooded.io/step/3,308,0,0
+1691389621917,569,S01_FL_Step_3,200,"Number of samples in transaction : 1, number of failing samples : 0",S01_FloodIO 1-1,,true,,3174,2966,1,1,null,0,7,0
+1691389621918,569,S01_FL_Step_3-0,200,OK,S01_FloodIO 1-1,text,true,,3174,2966,1,1,https://training.flooded.io/step/4,281,0,0
+1691389629236,1306,S01_FL_Step_4,200,"Number of samples in transaction : 3, number of failing samples : 0",S01_FloodIO 1-1,,true,,6518,5367,1,1,null,0,11,0
+1691389629238,618,S01_FL_Step_4-0,200,OK,S01_FloodIO 1-1,text,true,,3289,3140,1,1,https://training.flooded.io/step/5,300,0,0
+1691389629859,385,S01_FL_Step_4-1,200,OK,S01_FloodIO 1-1,text,true,,2151,1167,1,1,https://training.flooded.io/step/5,385,0,0
+1691389630248,303,S01_FL_Step_4-2,200,OK,S01_FloodIO 1-1,text,true,,1078,1060,1,1,https://training.flooded.io/code,303,0,0
+1691389636780,630,S01_FL_Step_5,200,"Number of samples in transaction : 1, number of failing samples : 0",S01_FloodIO 1-1,,true,,3087,2828,1,1,null,0,3,0
+1691389636782,630,S01_FL_Step_5-0,200,OK,S01_FloodIO 1-1,text,true,,3087,2828,1,1,https://training.flooded.io/done,322,0,0
+1691389643081,372,S01_FL_StartAgain,200,"Number of samples in transaction : 1, number of failing samples : 0",S01_FloodIO 1-1,,true,,3225,1104,1,1,null,0,6,0
+1691389643083,372,S01_FL_StartAgain-0,200,OK,S01_FloodIO 1-1,text,true,,3225,1104,1,1,https://training.flooded.io/,371,0,0
+1691389649274,5,Debug Sampler,200,OK,S01_FloodIO 1-1,text,true,,10391,0,1,1,null,0,0,0
